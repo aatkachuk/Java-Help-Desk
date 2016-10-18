@@ -18,7 +18,7 @@ public class reader extends JFrame {
 	public reader(String s){
 		super(s);
 		setLayout(new FlowLayout());
-		b1=new JButton("Clear");
+		b1=new JButton("Clearall");
 		b2=new JButton("Count");
 		l1= new JLabel("First nummber   ");
 		l2 = new JLabel("Second number  ");
